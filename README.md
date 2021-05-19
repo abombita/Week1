@@ -72,6 +72,6 @@ This is a paragraph [^1]. This is my second source[^2]
 
 ### List of things to do
 
-- [ ] Learn git
-- [ ] learn github
+- [x] Learn git
+- [x] learn github
 - [ ] learn Markdown
