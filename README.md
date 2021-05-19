@@ -30,6 +30,11 @@ Unordered List
 - learn Markdown
 - Sleep
 
+---
+### Code below
+
+`var name=Eric`
+
 If you are interested in reading about me visit my website at [astraeabombita.info](https://astraeabombita.info)
 
 ### Inages look like this
@@ -37,3 +42,10 @@ If you are interested in reading about me visit my website at [astraeabombita.in
 `![text for screen readers](image URL)`
 
 ![cats](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1024px-Cat_poster_1.jpg)
+
+
+## Fun with Tables
+
+| Name | email | phone number |
+| ---- | ------ | ------------ |
+| Astraea| help@hotmail.com | 911|
