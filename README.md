@@ -49,3 +49,14 @@ If you are interested in reading about me visit my website at [astraeabombita.in
 | Name | email | phone number |
 | ---- | ------ | ------------ |
 | Astraea| help@hotmail.com | 911|
+
+
+## Code Examples
+
+`A code example uses a back tick`
+
+---
+{
+    `code here` : `this is code`
+}
+---
