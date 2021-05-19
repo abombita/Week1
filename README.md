@@ -75,3 +75,34 @@ This is a paragraph [^1]. This is my second source[^2]
 - [x] Learn git
 - [x] learn github
 - [ ] learn Markdown
+
+# Cool Things I Enjoyed While Being Trapped Indoors
+
+### Books
+
+1. The witch doesn't burn in this one
+2. Anna Karinia  
+3. Whiskey, Words, and a Shovel
+
+All books i *read* during the **pandemic** and loved
+
+---
+
+### Shows
+
+- Criminal Minds
+- Greys Anatomy 
+- American Gods
+
+---
+
+## Podcasts I Meant to Start
+
+- [x] And Thats Why We Drink
+- [x] Wine And Crime
+- [ ] Myths and legends
+
+ATWWD has some really cool merch at [atwwdmerch](https://atwwdmerch.com)
+
+![atwwd expose yourself to art](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdQ1oG4UbVWUjmToQ8elGAfXhMdEAEzSsrg&usqp=CAU)
+
