@@ -67,3 +67,11 @@ This is a paragraph [^1]. This is my second source[^2]
 
 [^1]This is my source
 [^2]This is my will to live
+
+~~Footnotes are currently broken~~
+
+### List of things to do
+
+- [ ] Learn git
+- [ ] learn github
+- [ ] learn Markdown
