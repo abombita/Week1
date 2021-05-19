@@ -29,3 +29,11 @@ Unordered List
 - have fun
 - learn Markdown
 - Sleep
+
+If you are interested in reading about me visit my website at [astraeabombita.info](https://astraeabombita.info)
+
+### Inages look like this
+
+`![text for screen readers](image URL)`
+
+![cats](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cat_poster_1.jpg/1024px-Cat_poster_1.jpg)
