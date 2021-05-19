@@ -18,3 +18,14 @@ It is useful.
 >The queen is their slave.  
 
 Quotes are cool.
+
+## Fun With Lists
+ordered list
+1. buy cat food
+2. buy dog food
+3. buy cocktail mixes
+
+Unordered List
+- have fun
+- learn Markdown
+- Sleep
