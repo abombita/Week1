@@ -60,3 +60,10 @@ If you are interested in reading about me visit my website at [astraeabombita.in
     `code here` : `this is code`
 }
 ---
+
+# Foot notes 
+
+This is a paragraph [^1]. This is my second source[^2]
+
+[^1]This is my source
+[^2]This is my will to live
