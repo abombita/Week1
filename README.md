@@ -13,7 +13,7 @@ This is a paragraph. A paragraph can be **long** or *short*.
 It is useful.
 
 
->Woker bees can leave,  
+>Worker bees can leave,  
 >Even drones can fly away  
 >The queen is their slave.  
 
@@ -37,7 +37,7 @@ Unordered List
 
 If you are interested in reading about me visit my website at [astraeabombita.info](https://astraeabombita.info)
 
-### Inages look like this
+### Images look like this
 
 `![text for screen readers](image URL)`
 
